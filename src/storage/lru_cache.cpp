@@ -1,5 +1,4 @@
 #include <lru_cache.h>
-#include <iostream>
 
 namespace kvstore {
 
