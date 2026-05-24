@@ -1,6 +1,6 @@
 #include "client_handler.h"
-#include "parser/parser.h"
-#include "response/response.h"
+#include "protocol/parser.h"
+#include "protocol/response.h"
 
 #include <iostream>
 #include <cstring>
